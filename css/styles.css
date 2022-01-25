@@ -1,0 +1,13 @@
+body {
+  background-color: #DCEDC1;
+}
+
+hr {
+  background-color: none;
+  border-style: none;
+  border-top: dotted 7px;
+  border-color: grey;
+  opacity: 0.33;
+  height: 2px;
+  width: 7%;
+}
